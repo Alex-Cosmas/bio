@@ -65,7 +65,7 @@
                             different
                             office across 3 continents. Prior to that, I was in the Branding and Advertising space handling similar responsibilities. </p>
                         
-                        <p class="mb-4">I'm currently a consultant at <a href="https://codetosolve.herokuapp.com/"
+                        <p class="mb-4">I'm currently a consultant at <a href=""
                                 class="hover:text-purple-500 hover:border-purple-500 border-b border-b-2 border-purple-900">Code
                                 to
                                 Solve</a> helping businesses build better products and services.
